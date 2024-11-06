@@ -34,7 +34,7 @@ __________________________________________________________________
 __________________________________________________________________
 ### Fig 6
 <p align="center">
- <img src="https://github.com/Articles-data/Frequency-Arrangement/blob/main/Figures/Fig6/Figure6_dpi100.jpg"| width=500 >
+ <img src="https://github.com/Articles-data/Frequency-Arrangement/blob/main/Figures/Fig6/Figure6_dpi100_1.jpg"| width=500 >
 </p>
 
 __________________________________________________________________
