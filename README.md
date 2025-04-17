@@ -1,4 +1,4 @@
-# 🔁 Frequency-Arrangement
+# 📃 Double hysteresis loop in synchronization transitions of multiplex networks: The role of frequency arrangements and frustration
 <p align="center">
   <img src="https://sdfestaticassets-eu-west-1.sciencedirectassets.com/prod/c2d2d2e89ef077cbc6663badca517ca70a10db41/image/elsevier-non-solus.svg" width="100" style="float:left; margin-right: 10px;" />
   <span style="font-size: 18px; font-weight: bold; line-height: 100px; vertical-align: super; font-family: 'Georgia', serif;">Chaos, Solitons & Fractals</span>
