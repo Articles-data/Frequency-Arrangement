@@ -16,6 +16,8 @@ _Ali Seif, Mina Zarei_
 
 🔗 [PDF from arxiv.org](https://arxiv.org/pdf/2411.12094)
 
+🎓 [Google Scholar, Ali Seif](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=ncrwrXYAAAAJ&authuser=1)
+
 ### 🔍 Highlights
 
 - **Frequency Configurations Shape Synchronization**  
