@@ -14,6 +14,7 @@ _Ali Seif, Mina Zarei_
 📅 *Published in Chaos, Solitons & Fractals, Volume 196, July 2025*  
 🔗 [DOI: 10.1016/j.chaos.2025.116412](https://doi.org/10.1016/j.chaos.2025.116412)
 
+🔗 [PDF from arxiv.org](https://arxiv.org/pdf/2411.12094)
 
 ### 🔍 Highlights
 
