@@ -19,10 +19,6 @@ _Ali Seif, Mina Zarei_
 🎓 [Google Scholar, Ali Seif](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=ncrwrXYAAAAJ&authuser=1)
 
 
-- 📄[Article (PDF)](https://github.com/Articles-data/Frequency-Arrangement/blob/main/Final%20version%20of%20the%20original%20article/A.%20Seif%20and%20M.%20Zarei.pdf)
-- 📎 [Supplementary Information (PDF)](https://github.com/Articles-data/Frequency-Arrangement/blob/main/Final%20version%20of%20the%20original%20article/mmc1.pdf)
-
-
 ### 🔍 Highlights
 
 - **Frequency Configurations Shape Synchronization**  
